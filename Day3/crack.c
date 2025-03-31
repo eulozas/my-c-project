@@ -12,6 +12,7 @@ return 1;
 
     printf((a*a+b*b)>25.0?"MISS":"GOTCHA");
 
+    
     return 0;
 
 
